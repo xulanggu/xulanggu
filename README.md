@@ -26,7 +26,7 @@ I build **perception and control systems for embodied agents**. After first-auth
 |------|-------|-------|------|
 | 2026 | IEEE FG | **LibreFace 2.0**: Generalizable Facial Expression Analysis via Synthetic Data | First author |
 | 2026 | WACV | **Face-LLaVA**: Facial Expression & Attribute Understanding via Instruction Tuning · [arXiv](https://arxiv.org/abs/2504.07198) | Second author |
-| 2021 | IEEE ICSP | A Novel Method of Plant Leaf Disease Detection Based on Deep Learning and Convolutional Neural Network · *87+ citations* | First author | [paper](https://ieeexplore.ieee.org/document/9408806) |
+| 2021 | IEEE ICSP | Plant Leaf Disease Detection via Deep Learning & CNN · [paper](https://ieeexplore.ieee.org/document/9408806) · *87+ citations* | First author |
  
 ---
  
