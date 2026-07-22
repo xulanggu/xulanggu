@@ -34,6 +34,7 @@ I build **perception and control systems for embodied agents**. After first-auth
  
 <!-- TODO: replace REPO_NAME with your actual repo names so these link correctly -->
 - **[LibreFace](https://github.com/ihp-lab/LibreFace)** — facial expression analysis toolkit (PyPI), MAE ViT + RepVGG distillation
+- **[Face-LLaVA](https://github.com/ihp-lab/Face-LLaVA)** — multimodal LLM for facial expression & attribute understanding (WACV 2026)
 
 ### 🛠️ Tech
  
