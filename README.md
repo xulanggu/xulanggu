@@ -6,7 +6,7 @@ Incoming MS CSE @ University of Michigan · B.S. CS + Applied Math @ USC
 [![Website](https://img.shields.io/badge/Website-xulanggu.github.io-2563eb?style=flat-square&logo=githubpages&logoColor=white)](https://xulanggu.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-100+_citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=q5rt4zIAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xulang-guan-3040a6268/)
-[![Email](https://img.shields.io/badge/Email-xulanggu@usc.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:xulanggu@usc.edu)
+[![Email](https://img.shields.io/badge/Email-xulanggu@usc.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:langguan8@gmail.com)
  
 ---
  
